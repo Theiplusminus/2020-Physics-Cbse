@@ -17,11 +17,11 @@ c = 3 ? 108 m/s
 h = 6.63 ? 10-34 Js
 e = 1.6 ? 10-19 C
 ?0 = 4? ? 10-7 T m A-1
-?0 = 8.854 × 10-12 C2 N-1 m-2
+?0 = 8.854 Ã— 10-12 C2 N-1 m-2
  1  = 9 ? 109 N m2 C-2
 4??0
-Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 × 10-27 kg Mass of proton = 1.673 × 10-27 kg
-Avogadro's number = 6.023 × 1023 per gram mole Boltzmann constant = 1.38 × 10-23 JK-1
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 Ã— 10-27 kg Mass of proton = 1.673 Ã— 10-27 kg
+Avogadro's number = 6.023 Ã— 1023 per gram mole Boltzmann constant = 1.38 Ã— 10-23 JK-1
 
 SECTION : A
 Note :	Select the most appropriate option from those given below each question.
