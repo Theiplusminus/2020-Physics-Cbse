@@ -116,14 +116,28 @@ will be	1
 ?0
 (D) ?0
 
-10.	m2V-1s-1 is the SI unit of which of the following ?1(A)Drift velocity(B)Mobility(C)Resistivity(D)Potential gradientNote :	Fill in the blanks with appropriate answer :
+10.	m2V-1s-1 is the SI unit of which of the following ?
+1
+(A)
+Drift velocity
+
+(B)
+Mobility
+
+(C)
+Resistivity
+
+(D)
+Potential gradient
+
+Note :	Fill in the blanks with appropriate answer :
 11. The shape of the wavefront originating from a point source of light is
 	.	1
 12. In	photoelectric	effect,	 the	number	of	emitted	photoelectrons	is proportional to 		of incident light.				1
 OR
 Light of frequency v is incident on a photosensitive surface of threshold frequency	v0 (v > v0).	The	value	of	kinetic	energy	of	the	emitted photoelectrons will be 			.							1
 13. In Young's double slit experiment, if the monochromatic source of light is replaced by another monochromatic source of shorter wavelength, the value of fringe width will 	.	1
-14. The refractive index of the material of a converging lens is 1·5. If air is replaced by a medium of refractive index 1·6, then the lens will now behave as a 	lens.	1
+14. The refractive index of the material of a converging lens is 1Â·5. If air is replaced by a medium of refractive index 1Â·6, then the lens will now behave as a 	lens.	1
 
 15. The value of Brewster's angle for air-glass interface is
 
@@ -192,7 +206,7 @@ SECTION C
 31. What are matter waves ? Find the ratio of de Broglie wavelengths associated with proton and alpha particles when both particles
 (a) are accelerated through the same potential difference.
 (b) have same velocity.	3
-32. A series LCR ac circuit has L = 2·0 H, C = 32 ?F and R = 10 ?.
+32. A series LCR ac circuit has L = 2Â·0 H, C = 32 ?F and R = 10 ?.
 (a) At what angular frequency of ac will it resonate ?
 (b) Calculate the Q value of the circuit.	3
 
