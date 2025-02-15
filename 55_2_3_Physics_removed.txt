@@ -155,7 +155,7 @@ E pointing along the x-axis as shown in the figure. Find the
 (b) magnitude and direction of the net torque acting on it.	3
 
 
-29. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1·25 cm and 5·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
+29. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1Â·25 cm and 5Â·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
 near point.	3
 30. What is the function of a solar cell ? Briefly explain its working and draw
 its I-V characteristic curve.	3
@@ -182,7 +182,7 @@ SECTION D
 find the focal length of the convex mirror.	5
 OR
 (a) What is a wavefront ? How does it propagate ? Using Huygens' principle, explain reflection of a plane wavefront from a surface and verify the laws of reflection.
-(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2·5 mm from the centre of the screen, find the (i) width of the slit, and
+(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2Â·5 mm from the centre of the screen, find the (i) width of the slit, and
 (ii) distance of first secondary maximum from the centre of the screen.	5
 36. (a)  Use Gauss's law to show that due to a uniformly charged spherical shell of radius R, the electric field at any point situated outside the shell at a distance r from its centre is equal to the electric field at the same point, when the entire charge on the shell were concentrated at its centre. Also plot the graph showing the variation of electric field with r, for r ? R and r ? R.
 (b)  Two point charges of + 1 ?C and + 4 ?C are kept 30 cm apart. How far from the + 1 ?C charge on the line joining the two charges, will
@@ -210,14 +210,14 @@ E , and
 37. (a)  A circular loop of radius R carries a current I. Obtain an expression for the magnetic field at a point on its axis at a distance x from its centre.
 (b)  A conducting rod of length 2 m is placed on a horizontal table in north-south direction. It carries a current of 5 A from south to north. Find the direction and magnitude of the magnetic force acting on the rod. Given that the Earth's magnetic field at the
 
-place is 0·6 ? 10-4 T and angle of dip is
+place is 0Â·6 ? 10-4 T and angle of dip is
 OR
 
 ? .	5
 6
 
 (a) Obtain the expression for the deflecting torque acting on the current carrying rectangular coil of a galvanometer in a uniform magnetic field. Why is a radial magnetic field employed in the moving coil galvanometer ?
-(b) Particles of mass 1·6 ? 10-27 kg and charge 1·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
+(b) Particles of mass 1Â·6 ? 10-27 kg and charge 1Â·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0Â·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
 19
 
 
