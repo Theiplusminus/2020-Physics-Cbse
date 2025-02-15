@@ -1,0 +1,258 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four Sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Questions no. 1 to 20 are very short answer type questions, carrying 1 mark each.
+(iv) Section B - Questions no. 21 to 27 are short answer type questions, carrying 2 marks each.
+(v) Section C - Questions no. 28 to 34 are long answer type questions, carrying 3 marks each.
+(vi) Section D - Questions no. 35 to 37 are also long answer type questions, carrying 5 marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in 2 questions of 1 mark, 2 questions of 2 marks, 1 question of three marks and all the 3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary :
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+SECTION A
+Note :	Select the most appropriate option from those given below each question :
+1. Resistivity of a given conductor depends upon	1
+(A) temperature.
+(B) length of conductor.
+(C) area of cross-section.
+(D) shape of the conductor.
+2. The ratio of current density and electric field is called	1
+(A) Resistivity
+(B) Conductivity
+(C) Drift velocity
+(D) Mobility
+3. In ?? decay, a	1
+(A) neutron converts into a proton emitting antineutrino.
+(B) neutron converts into a proton emitting neutrino.
+(C) proton converts into a neutron emitting antineutrino.
+(D) proton converts into a neutron emitting neutrino.
+4. The material which is not suitable for making a permanent magnet is	1
+(A) Steel
+(B) Ticonal
+(C) Lead
+(D) Alnico
+5. A welder wears special glasses to protect his eyes mostly from the harmful effect of	1
+(A) very intense visible light.
+(B) infrared radiation.
+(C) ultraviolet rays.
+(D) microwaves.
+
+6. In an n-type semiconductor, the donor energy level lies	1
+(A) at the centre of the energy gap.
+(B) just below the conduction band.
+(C) just above the valance band.
+(D) in the conduction band.
+7. When two nuclei (A ? 10) fuse together to form a heavier nucleus, the	1
+(A) binding energy per nucleon increases.
+(B) binding energy per nucleon decreases.
+(C) binding energy per nucleon does not change.
+(D) total binding energy decreases.
+8. Electromagnetic waves used as a diagnostic tool in medicine are	1
+(A) X-rays.
+(B) ultraviolet rays.
+(C) infrared radiation.
+(D) ultrasonic waves.
+9. At equilibrium, in a p-n junction diode the net current is	1
+(A) due to diffusion of majority charge carriers.
+(B) due to drift of minority charge carriers.
+(C) zero as diffusion and drift currents are equal and opposite.
+(D) zero as no charge carriers cross the junction.
+10. An electron is released from rest in a region of uniform electric and magnetic fields acting parallel to each other. The electron will	1
+(A) move in a straight line.
+(B) move in a circle.
+(C) remain stationary.
+(D) move in a helical path.
+
+Note :	Fill in the blanks with appropriate answer :
+11. Electric flux through a spherical surface shown in the figure, is 	.	1
+
+
+12. Out of red, blue and yellow lights, the scattering of 	 light is maximum.		1
+13. A compound microscope is used because a realistic simple microscope does not have 	magnification.	1
+14. An unpolarised light of intensity Io is passed through a polaroid. The intensity of a plane polarised light obtained is 	.	1
+15. In Young's double slit experiment, the path difference between two
+
+interfering waves at a point on the screen is
+
+5 ? , ? being wavelength of
+2
+
+the light used. The 	dark fringe will lie at this point.	1
+OR
+If one of the slits in Young's double slit experiment is fully closed, the
+new pattern has 	central maximum in angular size.	1
+Note :	Answer the following :
+16. Define the term 'threshold frequency' in photoelectric emission.	1
+17. A metallic rod PQ of length l is rotated with an angular velocity ? about an axis passing through its mid-pint (O) and perpendicular to the plane
+?
+of the paper, in uniform magnetic field B , as shown in the figure. What
+is the potential difference developed between the two ends of the rod, P
+and Q ?	1
+
+
+
+
+
+
+
+
+
+18. What is the impedance of a capacitor of capacitance C in an ac circuit using source of frequency n Hz ?	1
+OR
+What is the value of impedance of a resonant series LCR circuit ?	1
+
+19. The threshold wavelength for two photosensitive surfaces A and B are ?1
+and ?2, respectively. What is the ratio of the work functions of the two surfaces ?	1
+20. Draw the graph showing variation of the value of the induced emf as a function of rate of change of current flowing through an ideal inductor.	1
+SECTION B
+21. Which of the following electromagnetic waves has (a) minimum wavelength, and (b) minimum frequency ? Write one use of each of these two waves.
+Infrared waves, Microwaves, ?-rays and X-rays	2
+22. A galvanometer of resistance 16 ? shows full scale deflection for a current of 4 mA. How will you convert it into a voltmeter to measure a voltage up to 3 V ?	2
+23. Draw V-I characteristics of a p-n junction diode. Explain, why the current under reverse bias is almost independent of the applied voltage up to the critical voltage.	2
+24. Define the term 'mobility' of charge carriers in a current carrying
+conductor. Obtain the relation for mobility in terms of relaxation time.	2
+OR
+Define the term 'drift velocity' of electrons in a current carrying conductor. Obtain the relationship between the current density and the drift velocity of electrons.	2
+
+25. The focal length of an equiconcave lens is
+
+3 times of radius of curvature
+4
+
+of its surfaces. Find the refractive index of the material of the lens. Under what condition will this lens behave as a converging lens ?	2
+26. (a)	For a radioactive substance, show the variation of the total mass disintegrated as a function of time t graphically.
+(b)	Initial mass of a radioactive substance is 3·2 mg. It has a half-life
+of 4 h. Find the mass of the substance left undecayed after 8 h.	2
+
+27. (a)	Explain the term 'sharpness of resonance' in ac circuit.
+(b)	In a series LCR circuit, VL = VC ? VR. What is the value of power factor for this circuit ?	2
+OR
+An ac source of emf V = V0 sin ?t is connected to a capacitor of capacitance C. Deduce the expression for the current (I) flowing in it. Plot
+the graph of (i) V vs. ?t, and (ii) I vs. ?t.	2
+SECTION C
+28. (a)	Two electric field lines cannot cross each other. Also, they cannot form closed loops. Give reasons.
+(b)  A particle of charge 2 ?C and mass 1·6 g is moving with a velocity 4 ^i ms-1. At t = 0 the particle enters in a region having an electric field  (in NC-1) = 80 ^i + 60 ^j . Find the velocity of the particle at
+t = 5 s.	3
+OR
+In the figure given below, find the
+(a) equivalent capacitance of the network between points A and B. Given : C1 = C5 = 4 ?F, C2 = C3 = C4 = 2 ?F.
+(b) maximum charge supplied by the battery, and
+(c) total energy stored in the network.	3
+
+
+29. (a)	Differentiate between half-life and average life of a radioactive substance.
+(b)	A radioactive substance decays for an interval of time equal to its mean life. Find the fraction of the amount of the substance which
+is left undecayed after this time interval.	3
+
+30. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1·25 cm and 5·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
+near point.	3
+31. The maximum kinetic energy of the photoelectrons emitted is doubled when the wavelength of light incident on the photosensitive surface changes from ?1 to ?2. Deduce expressions for the threshold wavelength
+and work function for the metal surface in terms of ?1 and ?2.	3
+32. (a)   Derive the condition of balance for Wheatstone bridge.
+(b)   Draw the circuit diagram of a meter bridge to explain how it is based on Wheatstone bridge.	3
+33. The figure shows the graphical variation of the reactance of a capacitor with frequency of ac source.
+
+
+(a) Find the capacitance of the capacitor.
+(b) An ideal inductor has the same reactance at 100 Hz frequency as the capacitor has at the same frequency. Find the value of inductance of the inductor.
+(c) Draw the graph showing the variation of the reactance of this inductor with frequency.	3
+
+34. (a)  Plot V-I characteristics for an illuminated photodiode under reverse bias for three different illumination intensities I1 > I2 > I3.
+(b)  In a zener regulated power supply, a zener diode with Vz = 6 V is used for regulation. The load current should be 4·0 mA and zener current is five times the load current for unregulated input of 10 V.
+Find the series resistor Rs used in the power supply.	3
+SECTION D
+35. (a)  A circular loop of radius R carries a current I. Obtain an expression for the magnetic field at a point on its axis at a distance x from its centre.
+(b)  A conducting rod of length 2 m is placed on a horizontal table in north-south direction. It carries a current of 5 A from south to north. Find the direction and magnitude of the magnetic force acting on the rod. Given that the Earth's magnetic field at the
+
+place is 0·6 ? 10-4 T and angle of dip is
+OR
+
+? .	5
+6
+
+(a) Obtain the expression for the deflecting torque acting on the current carrying rectangular coil of a galvanometer in a uniform magnetic field. Why is a radial magnetic field employed in the moving coil galvanometer ?
+(b) Particles of mass 1·6 ? 10-27 kg and charge 1·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
+36. (a)   Derive lens maker's formula for a biconvex lens.
+(b)  A point object is placed at a distance of 12 cm on the principal axis of a convex lens of focal length 10 cm. A convex mirror is placed coaxially on the other side of the lens at a distance of 10 cm. If the final image coincides with the object, sketch the ray diagram and
+find the focal length of the convex mirror.	5
+OR
+(a) What is a wavefront ? How does it propagate ? Using Huygens' principle, explain reflection of a plane wavefront from a surface and verify the laws of reflection.
+
+(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2·5 mm from the centre of the screen, find the (i) width of the slit, and
+(ii) distance of first secondary maximum from the centre of the screen.	5
+37. (a)  Use Gauss's law to show that due to a uniformly charged spherical shell of radius R, the electric field at any point situated outside the shell at a distance r from its centre is equal to the electric field at the same point, when the entire charge on the shell were concentrated at its centre. Also plot the graph showing the variation of electric field with r, for r ? R and r ? R.
+(b)  Two point charges of + 1 ?C and + 4 ?C are kept 30 cm apart. How far from the + 1 ?C charge on the line joining the two charges, will
+the net electric field be zero ?	5
+OR
+(a) Two point charges q1 and q2 are kept r distance apart in a uniform
+external electric field	E . Find the amount of work done in
+assembling this system of charges.
+(b) A cube of side 20 cm is kept in a region as shown in the figure. An
+?
+electric field E exists in the region such that the potential at a
+point is given by V = 10x + 5, where V is in volt and x is in m.
+
+
+
+Find the
+(i) electric field
+
+
+?
+E , and
+
+(ii) total electric flux through the cube.	5
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

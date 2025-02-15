@@ -1,0 +1,341 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four Sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Questions no. 1 to 20 are very short answer type questions, carrying one mark each.
+(iv) Section B - Questions no. 21 to 27 are short answer type questions, carrying two marks each.
+(v) Section C - Questions no. 28 to 34 are long answer type questions, carrying three marks each.
+(vi) Section D - Questions no. 35 to 37 are also long answer type questions, carrying five marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in 2 questions of 1 mark, 2 questions of 2 marks, 1 question of three marks and all the 3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary.
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+SECTION A
+Note :	Select the most appropriate option from those given below each question :
+1. Photons of energies 1 eV and 2 eV are successively incident on a metallic surface of work function 0·5 eV. The ratio of kinetic energy of most energetic photoelectrons in the two cases will be	1
+(A) 1 : 2
+(B) 1 : 1
+(C) 1 : 3
+(D) 1 : 4
+2. Which of the following statements is not correct according to Rutherford model ?	1
+(A) Most of the space inside an atom is empty.
+(B) The electrons revolve around the nucleus under the influence of coulomb force acting on them.
+(C) Most part of the mass of the atom and its positive charge are concentrated at its centre.
+(D) The stability of atom was established by the model.
+3. The resolving power of a telescope can be increased by increasing	1
+(A) wavelength of light.
+(B) diameter of objective.
+(C) length of the tube.
+(D) focal length of eyepiece.
+4. The magnetic dipole moment of a current carrying coil does not depend upon	1
+(A) number of turns of the coil.
+(B) cross-sectional area of the coil.
+(C) current flowing in the coil.
+(D) material of the turns of the coil.
+
+5. For a glass prism, the angle of minimum deviation will be smallest for
+the light of	1
+(A) red colour.
+(B) blue colour.
+(C) yellow colour.
+(D) green colour.
+6. A biconvex lens of glass having refractive index 1·47 is immersed in a liquid. It becomes invisible and behaves as a plane glass plate. The refractive index of the liquid is	1
+(A) 1·47
+(B) 1·62
+(C) 1·33
+(D) 1·51
+7. The resistance of a metal wire increases with increasing temperature on account of	1
+(A) decrease in free electron density.
+(B) decrease in relaxation time.
+(C) increase in mean free path.
+(D) increase in the mass of electron.
+8. An electric dipole placed in a non-uniform electric field can experience	1
+(A) a force but not a torque.
+(B) a torque but not a force.
+(C) always a force and a torque.
+(D) neither a force nor a torque.
+
+9. If the net electric flux through a closed surface is zero, then we can infer	1
+(A) no net charge is enclosed by the surface.
+(B) uniform electric field exists within the surface.
+(C) electric potential varies from point to point inside the surface.
+(D) charge is present inside the surface.
+
+10. Kirchhoff 's first rule at a junction in an electrical network, deals with
+conservation of	1
+(A) energy
+(B) charge
+(C) momentum
+(D) both energy and charge
+
+Note :	Fill in the blanks with appropriate answer :
+
+11. A ray of light on passing through an equilateral glass prism, suffers a minimum deviation equal to the angle of the prism. The value of refractive index of the material of the prism is 	.	1
+12. According to Bohr's atomic model, the circumference of the electron orbit
+is always an 	multiple of de Broglie wavelength.	1
+OR
+In ?-decay, the parent and daughter nuclei have the same number of
+	.	1
+
+13. The number of turns of a solenoid are doubled without changing its length and area of cross-section. The self-inductance of the solenoid will become 	times.	1
+14. Laminated iron sheets are used to minimize 	 currents in the
+core of a transformer.	1
+
+15. The magnetic field lines are 	by a diamagnetic substance.	1
+
+Note :	Answer the following :
+16. Why cannot we use Si and Ge in fabrication of visible LEDs ?	1
+17. The variation of the stopping potential (Vo) with the frequency (v) of the light incident on two different photosensitive surfaces M1 and M2 is
+shown in the figure. Identify the surface which has greater value of the work function.	1
+
+18. How does an increase in doping concentration affect the width of depletion layer of a p-n junction diode ?	1
+
+
+19. The nuclear radius of
+
+27 Al is 3·6 fermi. Find the nuclear radius of
+13
+OR
+
+64 Cu .	1
+29
+
+A proton and an electron have equal speeds. Find the ratio of de Broglie wavelengths associated with them.	1
+20. How is displacement current produced between the plates of a parallel plate capacitor during charging ?	1
+SECTION B
+21. Two long straight parallel wires A and B separated by a distance d, carry equal current I flowing in same direction as shown in the figure.
+
+
+
+(a) Find the magnetic field at a point P situated between them at a distance x from one wire.
+(b) Show graphically the variation of the magnetic field with distance
+x for 0 < x < d.	2
+
+22. Using Bohr's atomic model, derive the expression for the radius of
+nth orbit of the revolving electron in a hydrogen atom.	2
+OR
+(a) Write two main observations of photoelectric effect experiment
+which could only be explained by Einstein's photoelectric equation.
+(b) Draw a graph showing variation of photocurrent with the anode potential of a photocell.	2
+23. Define wavefront of a travelling wave. Using Huygens principle, obtain the law of refraction at a plane interface when light passes from a rarer
+to a denser medium.	2
+OR
+
+Using lens maker's formula, derive the thin lens formula
+
+1 ? 1 - 1
+		
+
+for a
+
+f	v	u
+biconvex lens.	2
+24. Explain the principle of working of a meter bridge. Draw the circuit diagram for determination of an unknown resistance using it.	2
+25. Explain  the  terms  'depletion  layer'  and  'potential  barrier'  in  a p-n junction diode. How are the (a) width of depletion layer, and (b) value of  potential  barrier  affected  when  the  p-n  junction  is  forward
+biased ?	2
+26. N small conducting liquid droplets, each of radius r, are charged to a potential V each. These droplets coalesce to form a single large drop without any charge leakage. Find the potential of the large drop.	2
+27. Define activity of a sample of a radioactive substance. The value of the disintegration constant of a radioactive substance is 0·0693 h-1. Find the
+time after which the activity of a sample of this substance reduces to
+one-half that of its present value.	2
+
+SECTION C
+28. In a single slit diffraction experiment, light of wavelength ? illuminates
+the slit of width 'a' and the diffraction pattern is observed on a screen.
+(a) Show the intensity distribution in the pattern with the angular position ?.
+(b) How are the intensity and angular width of central maxima affected when
+(i) width of slit is increased, and
+(ii) separation between slit and screen is decreased ?	3
+
+29. With the help of a simple diagram, explain the working of a silicon solar
+cell, giving all three basic processes involved. Draw its I-V characteristic.	3
+30. A resistor R and an inductor L are connected in series to a source V = V0 sin ?t.
+Find the
+
+(a) peak value of the voltage drops across R and across L,
+
+(b) phase difference between the applied voltage and current. Which of them is ahead ?	3
+
+31. (a)  Write the expression for the speed of light in a material medium of relative permittivity ?r and relative magnetic permeability ?r.
+(b)	Write the wavelength range and name of the electromagnetic waves which are used in (i) radar systems for aircraft navigation,
+and (ii) Earth satellites to observe the growth of the crops.	3
+
+32. (a)  Two cells of emf E1 and E2 have their internal resistances r1 and r2, respectively. Deduce an expression for the equivalent emf and
+internal resistance of their parallel combination when connected across an external resistance R. Assume that the two cells are supporting each other.
+
+(b)	In case the two cells are identical, each of emf E = 5 V and internal resistance r = 2 ?, calculate the voltage across the external resistance R = 10 ?.	3
+33. (a)	Write an expression of magnetic moment associated with a current (I) carrying circular coil of radius r having N turns.
+(b)	Consider the above mentioned coil placed in YZ plane with its centre at the origin. Derive expression for the value of magnetic field due to it at point (x, 0, 0).	3
+OR
+(a) Define current sensitivity of a galvanometer. Write its expression.
+(b) A galvanometer has resistance G and shows full scale deflection for current Ig.
+(i) How can it be converted into an ammeter to measure current up to I0 (I0 > Ig) ?
+(ii) What is the effective resistance of this ammeter ?	3
+
+34. The nucleus
+?-particle
+
+235 Y , initially at rest, decays into
+92
+
+231X
+90
+
+by emitting an
+
+235Y ??? 231X ? 4He
+
++ energy.
+
+92	90	2
+The binding energies per nucleon of the parent nucleus, the daughter nucleus and ?-particle are 7·8 MeV, 7·835 MeV and 7·07 MeV, respectively. Assuming the daughter nucleus to be formed in the unexcited state and neglecting its share in the energy of the reaction, find
+the speed of the emitted ?-particle. (Mass of ?-particle = 6·68 ? 10-27 kg)   3
+
+SECTION D
+35. (a)  Derive the expression for the torque acting on the rectangular current carrying coil of a galvanometer. Why is the magnetic field made radial ?
+(b)  An ?-particle is accelerated through a potential difference of 10 kV and moves along x-axis. It enters in a region of uniform magnetic field B = 2 ? 10-3 T acting along y-axis. Find the radius of its path.
+(Take mass of ?-particle = 6·4 ? 10-27 kg )	5
+OR
+(a) With the help of a labelled diagram, explain the working of a step-up transformer. Give reasons to explain the following :
+(i) The core of the transformer is laminated.
+(ii) Thick copper wire is used in windings.
+(b) A conducting rod PQ of length 20 cm and resistance 0·1 ? rests on two smooth parallel rails of negligible resistance AA? and CC?. It can slide on the rails and the arrangement is positioned between the poles of a permanent magnet producing uniform magnetic field B = 0·4 T. The rails, the rod and the magnetic field are in three mutually perpendicular directions as shown in the figure. If the ends A and C of the rails are short circuited, find the
+(i) external force required to move the rod with uniform velocity v = 10 cm/s, and
+(ii) power required to do so.	5
+
+
+
+
+
+
+
+36. (a)  Draw the ray diagram of an astronomical telescope when the final image is formed at infinity. Write the expression for the resolving power of the telescope.
+
+(b) An astronomical telescope has an objective lens of focal length 20 m and eyepiece of focal length 1 cm.
+(i) Find the angular magnification of the telescope.
+(ii) If this telescope is used to view the Moon, find the diameter of the image formed by the objective lens. Given the diameter of the Moon is 3·5 ? 106 m and radius of lunar orbit
+is 3·8 ? 108 m.	5
+OR
+(a) An object is placed in front of a concave mirror. It is observed that a virtual image is formed. Draw the ray diagram to show the
+
+image formation and hence derive the mirror equation
+
+1 ? 1 ? 1 .
+		
+
+f	u	v
+(b) An object is placed 30 cm in front of a plano-convex lens with its spherical surface of radius of curvature 20 cm. If the refractive index of the material of the lens is 1·5, find the position and nature
+of the image formed.	5
+37. (a)  Using Gauss law, derive expression for electric field due to a spherical shell of uniform charge distribution ? and radius R at a point lying at a distance x from the centre of shell, such that
+(i) 0 < x < R, and
+(ii) x > R.
+(b) An electric field is uniform and acts along + x direction in the region of positive x. It is also uniform with the same magnitude but acts in - x direction in the region of negative x. The value of the field is E = 200 N/C for x > 0 and E = - 200 N/C for x < 0. A right circular cylinder of length 20 cm and radius 5 cm has its centre at the origin and its axis along the x-axis so that one flat face is at x = + 10 cm and the other is at x = - 10 cm.
+Find :
+(i) The net outward flux through the cylinder.
+(ii) The net charge present inside the cylinder.	5
+OR
+
+
+(a) Find the expression for the potential energy of a system of two
+
+point charges q1
+
+and q2
+
+located at ?
+1
+
+and ? , respectively in an
+2
+
+external electric field ? .
+(b) Draw equipotential surfaces due to an isolated point charge (- q) and depict the electric field lines.
+(c) Three point charges + 1 ?C, - 1 ?C and + 2 ?C are initially infinite distance apart. Calculate the work done in assembling these charges at the vertices of an equilateral triangle of side 10 cm.	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

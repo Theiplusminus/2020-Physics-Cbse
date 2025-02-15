@@ -1,0 +1,245 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A : Q. no. 1 to 20 are very short-answer type questions carrying 1
+mark each.
+(iv) Section B : Q. no. 21 to 27 are short-answer type questions carrying 2
+marks each.
+(v) Section C : Q. no. 28 to 34 are long-answer type questions carrying 3 marks each.
+(vi) Section D : Q. no. 35 to 37 are also long answer type questions carrying 5
+marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in two questions of one mark, two questions of two marks, one question of three marks and all the three questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) However, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary.
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 × 10-12 C2 N-1 m-2
+ 1  = 9 ? 109 N m2 C-2
+4??0
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 × 10-27 kg Mass of proton = 1.673 × 10-27 kg
+Avogadro's number = 6.023 × 1023 per gram mole Boltzmann constant = 1.38 × 10-23 JK-1
+
+SECTION : A
+
+Note :	Select the most appropriate option from those given below each question.
+1. A biconcave lens of power P vertically splits into two identical plano concave parts. The power of each part will be
+(a) 2P	(b)
+(c)	P	(d)	1
+2. The power factor of a series LCR circuit at resonance will be
+(a) 1	(b)	0
+(c)	1/2	(d)	1
+3. If photons of frequency v are incident on the surfaces of metals. A & B of threshold frequencies v/2 and v/3 respectively, the ratio of the maximum kinetic energy of electrons emitted from A to that from B is
+(a) 2 : 3	(b)   3 : 4
+(c)  1 : 3	(d)	1
+4. The electric flux through a closed Gaussian surface depends upon
+(a) Net charge enclosed and permittivity of the medium
+(b) Net charge enclosed, permittivity of the medium and the size of the Gaussian surface
+(c) Net charge enclosed only
+(d) Permittivity of the medium only	1
+5. A charge particle after being accelerated through a potential difference 'V' enters in a uniform magnetic field and moves in a circle of radius r. If V is doubled, the radius of the circle will become
+(a) 2r	(b)
+(c)  4r	(d)	1
+6. The wavelength and intensity of light emitted by a LED depend upon
+(a) forward bias and energy gap of the semiconductor
+(b) energy gap of the semiconductor and reverse bias
+(c) energy gap only
+(d) forward bias only	1
+
+7. The graph showing the correct variation of linear momentum (p) of a charge particle with its de-Broglie wavelength (?) is -
+        1
+
+
+8. The selectivity of a series LCR a.c. circuit is large, when
+(a) L is large and R is large	(b)	L is small and R is small
+(c)	L is large and R is small	(d)	L = R	1
+9. Photo diodes are used to detect
+(a) radio waves	(b)	gamma rays
+(c)	IR rays	(d)	optical signals	1
+10. The relationship between Brewester angle '?' and the speed of light 'v' in the denser medium is -
+(a) v tan ? = c	(b)	c tan ? = v
+(c)	v sin ? = c	(d)	c sin ? = v	1
+Note :	Fill in the blanks with appropriate answer.
+11. The ability of a junction diode to 	an alternating voltage, is based
+on the fact that it allows current to pass only when it is forward biased.	1
+12. A point charge is placed at the centre of a hollow conducting sphere of internal radius 'r' and outer radius '2r'. The ratio of the surface charge density of the inner surface to that of the outer surface will be 	.	1
+
+13. The 	 , a property of materials C, Si and Ge depends upon the energy gap between their conduction and valence bands.	1
+14. A copper wire of non-uniform area of cross-section is connected to a d.c. battery. The physical quantity which remains constant along the wire is
+1
+15. The physical quantity having SI unit NC-1 m is 	.	1
+Note : Answer the following :
+16. Depict the fields diagram of an electromagnetic wave propagating along positive X-axis with its electric field along Y-axis.	1
+17. Write the conditions on path difference under which (i) constructive
+(ii) destructive interference occur in Young's double slit experiment.	1
+18. Plot a graph showing variation of induced e.m.f. with the rate of change of current flowing through a coil.	1
+OR
+A series combination of an inductor (L), capacitor (C) and a resistor (R) is connected across an ac source of emf of peak value E0 and angular
+frequency (?). Plot a graph to show variation of impedance of the circuit with angular frequency (?).	1
+19. Define the term 'current sensitivity' of a moving coil galvanometer.	1
+
+20. An electron moves along +x direction. It enters into a region of uniform magnetic field ?B directed along -z direction as shown in fig. Draw the shape of trajectory followed by the electron after entering the field.
+	 1
+OR
+
+A square shaped current carrying loop MNOP is placed near a straight long current carrying wire AB as shown in the fig. The wire and the loop lie in the same plane. If the loop experiences a net force F towards the wire, find the magnitude of the force on the side 'NO' of the loop.
+	 1
+
+
+SECTION : B
+21. Write shortcomings of Rutherford atomic model. Explain how these were overcome by the postulates of Bohr's atomic model.	2
+
+22. Figure shows the stopping potential (V0) for the photo electron versus
+(1/?) graph, for two metals A and B, ? being the wavelength of incident light.
+
+(a) How is the value of Planck's constant determined from the graph ?
+(b) If the distance between the light source and the surface of metal A is increased, how will the stopping potential for the electrons emitted from it be effected ? Justify your answer.	2
+23. Light from a sodium lamp (S) passes through two polaroid sheets P1 and P2 as shown in fig. What will be the effect on the intensity of the light
+transmitted (i) by P1 and (ii) by P2 on rotating polaroid P1 about the direction of propagation of light ? Justify your answer in both cases.
+	 2
+OR
+Define the term 'wave front of light'. A plane wave front AB propagating from denser medium (1) into a rarer medium (2) is incident on the surface P1P2 separating the two media as shown in fig.
+     Using Huygen's principle, draw the secondary wavelets and obtain the refracted wave front in the diagram.
+	 2
+
+24. Calculate for how many years will the fusion of 2.0 kg deuterium keep 800 W electric lamp glowing. Take the fusion reaction as
+2	2	3	1
+1H + 1H ??? 2He + 0n + 3.27 MeV	2
+25. In a single slit diffraction experiment, the width of the slit is decreased. How will the (i) size (ii) intensity of the central bright band be affected. Justify your answer.	2
+26. Derive the expression for the torque acting on an electric dipole, when it is held in a uniform electric field. Identify the orientation of the dipole in the electric field, in which it attains a stable equilibrium.	2
+OR
+Obtain the expression for the energy stored in a capacitor connected across a dc battery. Hence define energy density of the capacitor.	2
+27. Gamma rays and radio waves travel with the same velocity in free space. Distinguish between them in terms of their origin and the main application.	2
+SECTION : C
+28. (a)	Define the term 'half-life' of a radioactive substance.
+(b)	The half life of 238 U undergoing alpha decay is 4.5 ? 109 years. Calculate the activity of 5 g sample of 238U.	3
+29. Explain the formation of potential barrier and depletion region in a p-n junction diode. What is effect of applying forward bias on the width of depletion region ?	3
+OR
+What is photo diode ? Briefly explain its working and draw its V-I characteristics.	3
+30. Calculate the de-Broglie wavelength associated with the electron in the 2nd excited state of hydrogen atom. The ground state energy of the
+hydrogen atom is 13.6 eV.	3
+
+31. (a)	Differentiate between electrical resistance and resistivity of a conductor.
+(b) Two metallic rods, each of length L, area of cross A1 and A2, having resistivities ?1 and ?2 are connected in parallel across a d.c. battery. Obtain the expression for the effective resistivity of this combination.	3
+
+32. (a)	Two point charges + Q1 and - Q2 are placed r distance apart. Obtain
+the expression for the amount of work done to place a third charge Q3 at the midpoint of the line joining the two charges.
+(b) At what distance from charge + Q1 on the line joining the two charges (in terms of Q1, Q2 and r) will this work done be zero.	3
+33. An optical instrument uses an objective lens of power 100 D and an eyepiece of power 40 D. The final image is formed at infinity when the tube length of the instrument is kept at 20 cm.
+(a) Identify the optical instrument.
+(b) Calculate the angular magnification produced by the instrument.	3
+34. When a conducting loop of resistance 10 ? and area 10 cm2 is removed from an external magnetic field acting normally, the variation of induced current in the loop with time is shown in the figure.
+
+Find the
+(i) total charge passed through the loop.
+(ii) change in magnetic flux through the loop.
+(iii) magnitude of the magnetic field applied.	3
+
+SECTION : D
+35. (a)  Show that an ideal inductor does not dissipate power in an ac circuit.
+(b) The variation of inductive reactance (XL) of an inductor with the frequency (f) of the ac source of 100 V and variable frequency is shown in the fig.
+
+(i) Calculate the self-inductance of the inductor.
+(ii) When this inductor is used in series with a capacitor of unknown value and a resistor of 10 ? at 300 s-1, maximum power	dissipation	occurs	in	the	circuit.	Calculate	the capacitance of the capacitor.						5
+OR
+(a) A conductor of length 'l' is rotated about one of its ends at a constant angular speed '?' in a plane perpendicular to a uniform magnetic field B. Plot graphs to show variations of the emf induced across the ends of the conductor with (i) angular speed ? and (ii) length of the conductor l.
+(b) Two concentric circular loops of radius 1 cm and 20 cm are placed coaxially.
+(i) Find mutual inductance of the arrangement.
+(ii) If the current passed through the outer loop is changed at a rate of 5 A/ms, find the emf induced in the inner loop. Assume the
+magnetic field on the inner loop to be uniform.	5
+
+36. (a)  Write two important characteristics of equipotential surfaces.
+(b) A thin circular ring of radius r is charged uniformly so that its linear charge density becomes ?. Derive an expression for the electric field at a point P at a distance x from it along the axis of the ring. Hence, prove that at large distances (x >> r), the ring behaves as a point
+charge.	5
+OR
+(a) State Gauss's law on electrostatics and derive an expression for the electric field due to a long straight thin uniformly charged wire (linear charge density ?) at a point lying at a distance r from the wire.
+(b) The magnitude of electric field (in NC-1) in a region varies with the distance r(in m) as
+E = 10 r + 5
+By how much does the electric potential increase in moving from point at r = 1 m to a point at r = 10 m.	5
+37. (a) Define the term 'focal length of a mirror'. With the help of a ray diagram, obtain the relation between its focal length and radius of curvature.
+(b) Calculate the angle of emergence (e) of the ray of light incident normally on the face AC of a glass prism ABC of refractive index	3.
+How will the angle of emergence change qualitatively, if the ray of
+light emerges from the prism into a liquid of refractive index 1.3 instead of air ?
+	 5
+OR
+
+(a) Define the term 'resolving power of a telescople'. How will the resolving power be effected with the increase in
+(i) Wavelength of light used.
+(ii) Diameter of the objective lens. Justify your answers.
+(b) A screen is placed 80 cm from an object. The image of the object on the screen is formed by a convex lens placed between them at two different locations separated by a distance 20 cm. Determine the
+focal length of the lens.	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

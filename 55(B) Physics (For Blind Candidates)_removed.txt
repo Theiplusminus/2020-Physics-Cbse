@@ -1,0 +1,318 @@
+
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four Sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Questions no. 1 to 20 are very short answer type questions, carrying one mark each.
+(iv) Section B - Questions no. 21 to 27 are short answer type questions, carrying two marks each.
+(v) Section C - Questions no. 28 to 34 are long answer type questions, carrying three marks each.
+(vi) Section D - Questions no. 35 to 37 are also long answer type questions, carrying five marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in	2 questions of 1 mark,
+2 questions of 2 marks, 1 question of three marks and all the
+3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary.
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg
+Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+SECTION A
+Note : Select the most appropriate option from those given below each question :
+1. The magnitude of the electric field on the surface of a sphere of radius r having uniform surface charge density ? is	1
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+  
+? e0r2 s
+
+
+e0
+?
+
+
+2e0
+s
+
+
+2e0r2
+
+2. A lens of power 2·0 D is placed in contact with another lens of power - 1·0 D. The combination will behave as a	1
+(A) converging lens of f = 100 cm.
+(B) diverging lens of f = 100 cm.
+(C) converging lens of f = 50 cm.
+(D) diverging lens of f = 50 cm.
+3. When a radiation of wavelength ? falls on a photosensitive surface, the maximum kinetic energy of photoelectrons is K.
+For radiation of wavelength 2?, the maximum kinetic energy is	1
+(A) K 2
+(B) 2K
+(C) < K 2
+(D) > K 2
+
+4. Two capacitors of capacitances, C1 = 3 ?F and C2 = 6 ?F,
+connected in series, are charged by a battery of 6 V. The charges on the capacitors C1 and C2 are	1
+(A) C1 = 6 ?C; C2 = 12 ?C.
+(B) C1 = 12 ?C; C2 = 6 ?C.
+(C) C1 = 6 ?C; C2 = 6 ?C.
+(D) C1 = 12 ?C; C2 = 12 ?C.
+5. A wire of resistance R is stretched n times its original length. The resistance of the elongated wire will be	1
+(A) nR
+(B) R
+n
+(C) n2R
+(D) R
+n2
+6. The distance between the object and the real image formed by a convex lens is d. The magnification of the image is m. The
+focal length of the lens is	1
+
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+  
+md (m ? 1)2
+  md (m ? 1)
+  md (m - 1)
+  md (m - 1)2
+
+7. Violet light can cause photoelectric emission from a given metal surface, but blue light cannot. If sodium light is incident
+on the same surface, then the	1
+(A) photoelectric current would decrease.
+(B) velocity of photoelectrons emitted would increase.
+(C) number	of	photoelectrons	emitted	per	second	will increase.
+(D) photoelectric emission will not take place.
+8. When the lower half of a concave mirror's reflecting surface is covered with a black paper	1
+
+(A)	only half of the image will intensity.appearwithdecreasein(B)	the complete image will be intensity.formedwithincreasein(C)	the complete image will be intensity.formedwithdecreasein(D)	only half of the image will intensity.appearwithincreasein
+9. A proton, when accelerated through a potential difference of V volt, has de Broglie wavelength ? associated with it. If an alpha particle is to have the same wavelength ?, it must be accelerated through a potential difference of	1
+
+(A)
+
+(B)
+
+V volt
+8
+V volt 4
+
+(C) 4V volt
+(D) 8V volt
+
+10. The flow of current for forward biasing in a silicon p-n junction diode is due to	1
+(A) motion of electrons from n to p side and holes from p to n side.
+(B) motion of electrons from p to n side and holes from n to p side.
+(C) motion of both electrons and holes from n to p side.
+(D) motion of both electrons and holes from p to n side.
+Note :	Fill in the blanks with appropriate answer :
+11. A convex lens made of glass of refractive index n1 is dipped in a liquid of refractive index n2. If it behaves as a diverging lens,
+
+then the value of n1
+n2
+
+is 	one.	1
+
+12. Complete the following nuclear reaction :	1
+
+32	32
+P ???	S
+15	15
+
+
++ 	.
+
+
+13. In an unbiased p-n junction diode, the diffusion current is equal to the drift current under 	condition.	1
+14. When an unpolaroid light is incident on a polaroid sheet, its intensity is reduced by 	%.	1
+15. The ground state energy of hydrogen atom is - 13·6 eV. The potential	energy	of	the	orbiting	electron	in	this	state	is
+	eV.	1
+Note : Answer the following :
+16. Why can two electric field lines never cross each other ?	1
+
+17. A magnetic needle becomes vertical at the magnetic pole of the earth. Explain why.	1
+18. Why does the sky appear blue in colour ?	1
+OR
+Why	is	a	compound	microscope	preferred	over	a	simple microscope ?						1
+19. In a given series LCR circuit, under what condition is the power dissipated maximum ?	1
+20. What is the shape of the wavefront reflected by a concave mirror when a plane wave is incident on it ?	1
+OR
+Write any two advantages that a reflecting telescope has over
+a refracting telescope.	1
+SECTION B
+21. A point charge causes an electric flux of - 4? ? 103 Nm2/C to pass through a spherical Gaussian surface of 10 cm radius
+centred at the charge. Calculate the value of the point charge.	2
+?
+22. Write the expression for the magnetic force F	on a charge q
+moving	with	velocity	?	in	a	magnetic	field	? .
+Use this expression to define the SI unit of magnetic field.	2
+OR
+Write any two points of difference between the properties of diamagnetic and paramagnetic substances.	2
+23. A hydrogen atom is in its second excited state. Find out the ratio of the maximum and minimum wavelengths of the radiations emitted by it in de-excitation.	2
+24. Three resistances 1 ?, 2 ? and 3 ? are connected to form a triangle. If a cell of emf 2 V and internal resistances 0·5 ? is connected across the 3 ? resistance, find the value of the current supplied by the cell.	2
+
+25. State the underlying principle of a full wave p-n junction rectifier and explain its working.	2
+26. The	half-life	period	of	a	radioactive	isotope	is	20	days.
+
+Calculate the time taken for disintegrate.
+OR
+
+7 th  of its original mass to
+8	2
+
+A radioactive isotope has a half-life of 12·5 years. How long will it take for the activity to reduce to 3·125% of its initial value ?	2
+27. A rectangular loop carrying a steady current I is placed in a
+uniform magnetic field ? . Prove that the torque acting on the
+loop is given by ? =	?  ?  ? , where	?  is the magnetic
+?	m	B	m
+moment of the loop.	2
+SECTION C
+28. A 900 pF capacitor is charged by a 100 V battery.
+(a) Calculate the electrostatic energy stored by the capacitor.
+(b) When the capacitor is disconnected from the battery and connected to another uncharged capacitor of 900 pF, calculate the energy stored by the system.	3
+29. A ray of light is incident on one face of an equilateral prism at
+
+an angle
+
+3 th of the angle of the prism. If the ray passes
+4
+
+symmetrically through the prism, find the
+(a) angle of minimum deviation, and
+(b) refractive index of the material of the prism.	3
+30. (a)	An ac source of voltage v = v0 sin ?t is applied across an inductor. Prove that the current lags behind the voltage
+?
+in phase by 2 .
+
+(b)	A light bulb and a coil are connected to an ac source. The switch is closed and after some time an iron rod is inserted into the interior of the inductor. Explain, giving reason, how the glow of the bulb would be affected.	3
+OR
+(a) Prove that when an ac source is connected across an ideal
+capacitor, the current leads the voltage in phase by p .
+2
+(b) A lamp is connected in series with a capacitor. Predict your observations when you connect the combination, in turn, to an ac and to a dc source.	3
+31. (a)	Define the resolving power of a compound microscope.
+(b) Write	the	expression	for	magnifying	power	of	an astronomical telescope.
+(c) An astronomical telescope uses two lenses of powers 10 D and 1 D. Which lens is preferred as an objective lens and why ?	3
+32. (a) Define the term 'threshold frequency' in photoelectric effect.
+(b)  The work function for a given photosensitive surface is 2·5 eV. When light of frequency v falls on this surface the emitted photoelectrons are completely stopped by applying  a  retarding  potential  of  4·1  V.  Find  the
+frequency v of the light.	3
+
+33. (a)	Explain the principle and working of a moving coil galvanometer.
+(b)	Write the necessity of using a radial magnetic field in a galvanometer.	3
+34. Explain briefly how
+(a) a barrier potential is formed in a p-n junction diode.
+(b) the width of the depletion region in a p-n junction diode is affected when it is (i) forward biased, and (ii) reverse
+biased.	3
+SECTION D
+35. (a)	Define the potential gradient.
+(b) Explain the working principle of the instrument used for comparing the emfs of two primary cells.
+(c) How can the sensitivity of this instrument be increased ?
+(d) In what way is this method of comparing the emfs of two primary cells different from the one using a voltmeter ? Explain.	5
+OR
+(a) Use Kirchhoff 's rules to obtain the balance condition in a
+Wheatstone bridge.
+(b) Explain with the help of a circuit diagram, how this balance condition is used in a meter bridge to determine the unknown resistance of a wire.
+(c) Under what condition is the error in determining the unknown resistance minimized ?	5
+
+36. (a)  Describe briefly the construction and principle of a step-up transformer.
+(b) Deduce the expressions for the secondary voltage and secondary current in terms of number of turns in primary and secondary windings of an ideal transformer.
+(c) Write any two factors which are responsible for energy losses in actual transformers.	5
+OR
+(a) State the principle on which a cyclotron works.
+(b) Describe its working and explain how this machine is used to accelerate the charged particles.
+(c) Obtain the expression for cyclotron frequency and show that it is independent of the energy of the accelerated charged particles.	5
+37. A parallel beam of monochromatic light is incident normally on a narrow slit and the light coming out of the slit falls on a screen kept parallel to the plane of the slit.
+(a) What kind of a pattern is formed on the screen and how ?
+(b) What will be the change in the (i) angular width, and
+(ii) linear width, of the principal maximum in this pattern when the screen is moved parallel to itself away from the slit plane ?
+(c) State	two	differences		between	this	pattern	and	the interference		pattern	formed	in		Young's	double	 slit experiment.												5
+OR
+
+(a) What are coherent sources ? Why are two coherent sources necessary for observing the interference pattern ?
+(b) Show that the superposition of the waves originating from two coherent sources described by
+y1 = a cos ?t and y2 = a cos (?t + ?)
+at a point produces a resultant intensity, I = 4a2 cos2 ?/2. Hence, write the conditions for the appearance of dark and bright fringes.	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,271 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four Sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Questions no. 1 to 20 are very short answer type questions, carrying one mark each.
+(iv) Section B - Questions no. 21 to 27 are short answer type questions, carrying two marks each.
+(v) Section C - Questions no. 28 to 34 are long answer type questions, carrying three marks each.
+(vi) Section D - Questions no. 35 to 37 are also long answer type questions, carrying five marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in 2 questions of 1 mark, 2 questions of 2 marks, 1 question of three marks and all the 3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary.
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+SECTION A
+Note :	Select the most appropriate option from those given below each question :
+1. If a positive charge is displaced against the electric field in which it was situated, then	1
+(A) work will be done by the electric field on the charge.
+(B) the intensity of the electric field decreases.
+(C) energy of the system will decrease.
+(D) energy will be provided by external source displacing the charge.
+2. The electric flux emerging out from 1 C charge is	1
+(A) 1
+?0
+(B) 4?
+(C) 4?
+?0
+(D) ?0
+3. Two capacitors of capacitances C1 and C2 are connected in parallel. If a charge Q is given to the combination, the ratio of the charge on the capacitor C1 to the charge on C2 will be	1
+(A) C1 C2
+(B) 
+(C) 
+(D) C2 C1
+
+4. The electrical resistance of a conductor	1
+(A) varies directly proportional to its area of cross-section.
+(B) decreases with increase in its temperature.
+(C) decreases with increase in its conductivity.
+(D) is independent of its shape but depends only on its volume.
+5. m2V-1s-1 is the SI unit of which of the following ?	1
+(A) Drift velocity
+(B) Mobility
+(C) Resistivity
+(D) Potential gradient
+
+6. The element of a heater is rated (P, V). If it is connected across a source
+
+of voltage
+
+(A) P
+(B) 2P
+
+V , then the power consumed by it will be	1
+2
+
+(C) P 2
+(D) P 4
+7. In Bohr's model of hydrogen atom, the total energy of the electron in
+nth discrete orbit is proportional to	1
+(A) n
+(B) 1
+n
+(C) n2
+(D) 1
+n2
+
+8. A zener diode has	1
+(A) heavily doped p-side and lightly doped n-side.
+(B) heavily doped n-side and lightly doped p-side.
+(C) heavily doped n-side as well as p-side.
+(D) lightly doped n-side as well as p-side.
+9. A region has a uniform magnetic field in it. A proton enters into the region with velocity making an angle of 45? with the direction of the magnetic field. In this region the proton will move on a path having the shape of a	1
+(A) straight line
+(B) circle
+(C) spiral
+(D) helix
+
+10. An isosceles right angled current carrying loop PQR is placed in a
+?
+uniform magnetic field B pointing along PR. If the magnetic force acting
+on the arm PQ is F, then the magnetic force which acts on the arm QR
+will be	1
+
+(A) F
+
+(B) 
+
+(C) F
+(D) - F
+
+Note :	Fill in the blanks with appropriate answer :
+11. The shape of the wavefront originating from a line source is 	.	1
+12. The refractive index of the material of a converging lens is 1·5. If air is replaced by a medium of refractive index 1·6, then the lens will now behave as a 	lens.	1
+13. In Young's double slit experiment, the separation between the two slits is halved. The new fringe width will be 	times its initial value.	1
+
+14. The value of Brewster's angle for air-glass interface is
+
+? , hence the
+3
+
+refractive index of glass is 	.	1
+15. In	photoelectric	effect,	 the	number	of	emitted	photoelectrons	is proportional to 		of incident light.				1
+OR
+Light of frequency v is incident on a photosensitive surface of threshold frequency	v0 (v > v0).	The	value	of	kinetic	energy	of	the	emitted photoelectrons will be 			.							1
+Note :	Answer the following :
+16. An ac is passed through a series LCR circuit. What is the impedance of
+the circuit at resonance ?	1
+17. Two identical coils, one of copper and the other of aluminium are rotated with the same angular speed in an external magnetic field. In which of
+the two coils will the induced current be more ?	1
+18. In an ac circuit, the applied voltage and flowing current are E = E0 sin ?t
+
+and I = I0 sin (?t +
+
+? ) respectively. What is the average power consumed
+2
+
+in one cycle in this circuit ?	1
+OR
+What happens when a block of metal is kept in a varying magnetic field ?	1
+19. Mention the contribution of Indian physicist J.C. Bose in the production
+of electromagnetic waves.	1
+20. Write one use of the electromagnetic waves of frequency range from 1016 Hz to 1020 Hz.	1
+
+SECTION B
+21. Two cells of emf E1 and E2 (E1 > E2) are connected as shown in the figure below. When a potentiometer is used to measure potential difference between the points A and B, the balancing length of the potentiometer
+wire is 300 cm. But the same potentiometer for the potential difference
+
+between points A and C, gives the balancing length 100 cm. Find
+
+E1 .	2
+E2
+
+22. Two	identical	bars,	one	of	paramagnetic	material	and	other	of diamagnetic material are kept in a uniform external magnetic field parallel to it. Draw diagrammatically the modifications in the magnetic field pattern in each case.							2
+23. Two coplanar and concentric coils 1 and 2 have respectively the number of turns N1 and N2 and radii r1 and r2 (r2 >> r1). Deduce the expression
+for mutual inductance of this system.	2
+24. How does an oscillating charge radiate an electromagnetic wave ? Give the relation between the frequency of radiated wave and the frequency of
+oscillating charge.	2
+OR
+(a) Explain briefly the fact that electromagnetic waves carry energy.
+(b) Why do we not feel the pressure due to sunshine ?	2
+25. A converging lens of focal length f1 is placed coaxially in contact with a diverging lens of focal length f2 (f1 > f2). Determine the power and nature
+of the combination in terms of f1 and f2.	2
+OR
+How is the resolving power of a compound microscope affected if
+(a) wavelength of light used is decreased, and (b) the diameter of its objective lens is increased ? Justify your answers.	2
+26. Define the terms (a) threshold frequency, and (b) stopping potential. How
+were these terms incorporated in Einstein's photoelectric equation ?	2
+27. A hydrogen atom is in its third excited state.
+(a) How many spectral lines can be emitted by it before coming to the ground state ? Show these transitions in the energy level diagram.
+(b) In which of the above transitions will the spectral line of shortest wavelength be emitted ?	2
+
+SECTION C
+28. (a)  Differentiate between the random velocity and the drift velocity of electrons in an electrical conductor. Give their order of magnitudes.
+(b)  A conductor of uniform cross-sectional area is connected across a dc source of variable voltage. Draw a graph showing variation of drift velocity of electrons (vd) as a function of current density (J)
+in it.	3
+29. A series LCR ac circuit has L = 2·0 H, C = 32 ?F and R = 10 ?.
+(a) At what angular frequency of ac will it resonate ?
+(b) Calculate the Q value of the circuit.	3
+OR
+
+An ideal inductor of supply.
+
+5 H inductance is connected to a 200 V, 50 Hz ac
+?
+
+(a) Calculate the rms and peak value of current in the inductor.
+(b) What is the phase difference between current through the inductor and the applied voltage ? How will it change if a small resistance is
+connected in series with this inductor in the circuit ?	3
+30. (a)	Using the necessary ray diagram, derive the mirror formula for a concave mirror.
+(b)	In the magnified image of a measuring scale (with equidistant markings) lying along the principal axis of a concave mirror, the markings are not equidistant. Explain.	3
+31. (a)	The density of the nuclear matter is tremendously larger than the physical density of the material. Explain.
+(b) The nuclear forces are not coulomb forces between nucleons. Explain.
+(c) Draw a plot of the potential energy between a pair of nucleons as a function of distance between them inside a nucleus.	3
+
+32. What do you mean by wave nature of an electron ? How was quantisation
+of angular momentum of the orbiting electron in Bohr's model of
+hydrogen atom explained by de Broglie hypothesis ?	3
+33. Name the diode which can act as a voltage regulator. Explain its working with the help of its labelled circuit diagram. Draw its V - I characteristic.	3
+34. (a)	Why is an intrinsic semiconductor deliberately converted into an extrinsic semiconductor by adding impurity atoms ?
+(b)	Explain briefly the two processes that occur in p-n junction region
+to create a potential barrier.	3
+SECTION D
+35. (a)	An electric dipole of dipole moment ?p	is placed in a uniform
+?
+electric field E at an angle ? with it. Derive the expression for
+torque ( ? ) acting on it. Find the orientation of the dipole relative to the electric field for which torque on it is (i) maximum, and
+(ii) half of maximum.
+(b)  Two point charges q1 = + 1 ?C and q2 = + 4 ?C are placed 2 m apart in air. At what distance from q1 along the line joining the
+two charges, will the net electric field be zero ?	5
+OR
+(a) Derive an expression for the energy stored in a parallel plate capacitor of capacitance C when charged up to voltage V. How is this energy stored in the capacitor ?
+(b) A capacitor of capacitance 1 ?F is charged by connecting a battery of negligible internal resistance and emf 10 V across it. Calculate the amount of charge supplied by the battery in charging the
+capacitor fully.	5
+
+36. (a)  Derive the expression for the force acting per unit length between two long straight parallel current carrying conductors. Hence define one ampere.
+(b) Two long parallel straight conductors are placed 12 cm apart in air. They carry equal currents of 3 A each. Find the magnitude and direction of the magnetic field at a point midway between them (drawing a figure) when the currents in them flow in opposite
+directions.	5
+OR
+(a) Draw the schematic sketch of a cyclotron. Explain the shape of the path on which charged particle moves when the particle is accelerated by it.
+(b) To convert a given galvanometer into a voltmeter of ranges 2 V, V
+
+and
+
+V	volt, resistances R1, R2 and R3 ohm respectively, are
+
+required to be connected in series with the galvanometer. Obtain
+the relationship between R1, R2 and R3.	5
+37. (a) What is meant by plane polarised light ? An unpolarised light is incident at an angle ? on the surface of glass of refractive index ?. If the reflected and refracted rays are perpendicular to each other, then obtain the relationship between ? and ?.
+(b) Two polaroids P1 and P2 are placed in a crossed position. Unpolarised light of intensity I0 is incident on P1. If P2 is rotated through an angle ? about the direction of propagation of light, keeping P1 fixed, plot the graph of intensity of light for 0? < ? < 360? which is (i) transmitted by P1, and (ii) transmitted
+by P2.	5
+OR
+(a) Briefly describe the Young's double slit experiment of interference
+of light. Drive the expression for fringe width in the pattern.
+(b) Monochromatic light of wavelength 588 nm is incident from air to water interface. Find the wavelength and speed of the refracted
+
+light. The refractive index of water is
+
+4 .	5
+3
+
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

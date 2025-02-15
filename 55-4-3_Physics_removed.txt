@@ -1,0 +1,212 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A : Q. no. 1 to 20 are very short-answer type questions carrying
+1 mark each.
+(iv) Section B : Q. no. 21 to 27 are short-answer type questions carrying
+2 marks each.
+(v) Section C : Q. no. 28 to 34 are long-answer type questions carrying
+3 marks each.
+(vi) Section D : Q. no. 35 to 37 are also long answer type questions carrying
+5 marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice has been provided in two questions of one mark, two questions of two marks, one question of three marks and all the three questions five marks. You have to attempt only one of the choices in such questions.
+(viii) However, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.
+(x) You may use the following values of physical constants wherever necessary :
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 × 10-12 C2 N-1 m-2
+ 1  = 9 ? 109 N m2 C-2
+4??0
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 × 10-27 kg Mass of proton = 1.673 × 10-27 kg
+Avogadro's number = 6.023 × 1023 per gram mole Boltzmann constant = 1.38 × 10-23 JK-1
+
+SECTION - A
+Select the most appropriate option from those given below each question.
+1. A photo-cell connected in an electrical circuit is placed at a distance 'd' from a source of light. As a result current I flows in the circuit. What will be the current in the circuit when the distance is increased to '2d' ?
+
+(a) 2 I	(b)	I
+
+(c)	I
+
+(d)	4 I	1
+
+2. There are uniform electric and magnetic fields in a region pointing along X-axis. An ?-particle is projected along Y-axis with a velocity v. The shape of the trajectory will be
+(a) circular in XZ plane
+(b) circular in YZ plane
+(c) helical with its axis parallel to X-axis
+(d) helical with its axis parallel to Y-axis	1
+3. A circular loop of radius r, carrying a current I lies in y-z plane with its centre at the origin. The net magnetic flux through the loop is :
+(a) directly proportional to r	(b)	zero
+(c)	inversely proportional to r	(d)	directly proportional to I	1
+4. A cell of emf (E) and internal resistance r is connected across a variable external resistance R. The graph of terminal potential difference V as a function of R is -
+ 1
+5. A current of 10 A is flowing from east to west in a long straight wire kept on a horizontal table. The magnetic field developed at a distance 10 cm verticaly above the wire is :
+(a) 1.2 × 10-5 T, acting towards south  (b)  2 × 10-5 T, acting towards north
+(c) 3 × 10-5 T, acting downwards	(d)	2 × 10-5 T, acting upwards	1
+6. A uniform wire of resistance 4R is bent in the form of a circle. The effective resistance between the ends of any diameter of the circle is :
+
+(a) 2 R	(b)	R	(c)	R
+(d) 
+4R	1
+
+7. In the ??particle scattering experiment, the shape of the trajectory of the scattered ??particles depend upon :
+(a) only on impact parameter.
+(b) only on the source of ??particles.
+(c) both impact parameter and source of ??particles.
+(d) impact parameter and the screen material of the detector.	1
+
+8. Paschen series of atomic spectrum of hydrogen gas lies in :
+(a) Infrared region
+(b) Ultraviolet region
+(c) Visible region
+(d) Partly in ultraviolet and partly in visible region	1
+9. The kinetic energy of a proton and that of an ?-particle are 4 eV and 1 eV, respectively. The ratio of the de-Broglie wavelengths associated with them, will be
+(a) 2:1	(b)  1:1	(c)  1:2	(d)  4:1	1
+10. When a wave undergoes reflection at an interface from rarer to denser medium, adhoc change in its phase is :
+(a) ?	(b)	0	(c)	?	(d)	?	1
+Note : Fill in the blanks with appropriate answer :
+11		To minimize the percentage error in the determination of unknown resistance of a conductor in meter bridge experiment, the balance point is adjusted near 	of the wire.	1
+OR
+In potentiometer, a long uniform wire is used to 	 potential
+gradient along the wire.	1
+12. Torque acting on an electric dipole placed in an electric field is maximum when the angle between the electric field and the dipole moment is 	.	1
+13. A neutron is bombarded on a 10B nucleus and an alpha particle is emitted. The nuclear reaction involved is
+1n + 10B ??? 4He + ......	1
+0	5	2
+14. A proton released from rest in an electric field, will start moving towards
+a region of 	potential in the field.	1
+15. Unpolarised light of intensity Io is incident on two crossed polaroids. The intensity of light transmitted by the combination will be 	.	1
+Answer the following :
+16. An A.C. source with variable frequency is connected to a parallel plate capacitor. How will the displacement current be affected with the decrease in frequency of the source ?	1
+17. Can a slab of p-type semi-conductor be physically joined to another n-type semiconductor slab to form p-n junction ? Justify your answer.	1
+OR
+In a p-n junction diode the forward bias resistance is low as compared to
+the reverse bias resistance. Give reason.	1
+
+18. An astronomical telescope may be a refracting type or a reflecting type. Which of the two produces image of better quality ? Justify your answer.	1
+19. What is the change in the value of angle of dip when one goes from the equator to the north pole of earth ?	1
+20. A charged particle (+q) moves in a uniform electric field ( ?E ) in the
+
+direction opposite to
+
+?E . What will be the effect on its electrostatic
+
+potential energy during its motion ?	1
+SECTION - B
+21. Briefly explain how a potential barrier is set up across a p-n junction as a result of diffusion and drift of the charge carriers.	2
+22. Light of same wavelength is incident on three photo-sensitive surfaces A, B and C. The following observations are recorded.
+(i) From surface A, photo electrons are not emitted.
+(ii) From surface B, photo electrons are just emitted.
+(iii) From surface C, photo electrons with some kinetic energy are emitted. Compare the threshold frequencies of the three surfaces and justify your answer.	2
+OR
+If the frequency of light incident on the cathode of a photo-cell is increased, how will the following be affected ? Justify your answer.
+(i) Energy of the photo electrons.
+(ii) Photo current.	2
+23		A wire of length Lo has a resistance Ro. It is gradually stretched till its length becomes 1.5 Lo.
+(a) Plot the graph showing variation of its resistance R with its length l
+during stretching.
+(b) What will be its resistance when its length becomes 1.5 Lo ?	2
+24. You are given three capacitors of 2 ?F, 3 ?F and 4 ?F, respectively.
+(a) Form a combination of all these capacitors of equivalent capacitance 13 ?F.
+(b) What is the maximum and minimum value of the equivalent capacitance that can be obtained by connecting these capacitors ?	2
+25. (a)	Explain the formation of energy bands in crystalline solids.
+(b)	Draw the energy band diagrams of (i) a metal and (ii) a semiconductor.	2
+
+26. A resistor R and an inductor L are connected in series to a source of voltage V = Vo sin ?t. The voltage is found to lead current in phase by ?/4. If the inductor is replaced by a capacitor C, the voltage lags behind current in phase by ?/4. When L, C and R are connected in series with the same source,
+Find the :
+(i) average power dissipated and
+(ii) instantaneous current in the circuit.	2
+27. (a)	Why is a photo diode operated under reverse bias condition ?
+(b)	Draw V-I characteristic curves of photo diode for incident light of intensities I1 and I2 (I1 > I2).	2
+OR
+(a) State the level of doping and biasing condition used in light emitting diode (LED).
+(b) Write any two advantages of LED over the conventional low power lamps.	2
+SECTION - C
+28. Two coherent light waves of intensity 5 × 10-2 Wm-2 each super-impose and produce the interference pattern on a screen. At a point where the path difference between the waves is ?/6, ? being wavelength of the wave, find the
+(a) phase difference between the waves.
+(b) resultant intensity at the point.
+(c) resultant intensity in terms of the intensity at the maximum.	3
+29. (a) How are electro-magnetic waves produced ? Depict an electro- magnetic wave propagating in Z-direction with its magnetic field ?B oscillating along X-direction.
+(b)  Write two characteristics of electro-magnetic waves.	3
+30. A concave mirror forms a real image of an object kept at a distance 9 cm from it. If the object is taken away from the mirror by 6 cm, the image size reduces to 1 th of its previous size. Find the focal length of the mirror.	3
+31. (a)	Differentiate between self inductance and mutual inductance.
+(b) The mutual inductance of two coaxial coils is 2H. The current in one coil is changed uniformly from zero to 0.5A in 100 ms. Find the :
+(i) change in magnetic flux through the other coil.
+(ii) emf induced in the other coil during the change.	3
+
+32. Draw the labelled diagram of an AC generator. Briefly explain its working
+and obtain the expression for the emf produced in the coil.	3
+33. A hollow conducting sphere of inner radius r1 and outer radius r2 has a
+charge Q on its surface. A point charge -q is also placed at the centre of the sphere.
+(a) What is the surface charge density on the (i) inner and (ii) outer surface of the sphere ?
+(b) Use Gauss' law of electrostatics to obtain the expression for the electric field at a point lying outside the sphere.	3
+OR
+(a) An infinitely long thin straight wire has a uniform linear charge density ?. Obtain the expression for the electric field (E) at a point lying at a distance x from the wire, using Gauss' law.
+(b) Show graphically the variation of this electric field E as a function of distance x from the wire.	3
+34. (a)  Explain the principle of working of a potentiometer.
+(b) In a potentiometer, a standard source of emf 5V and negligible internal resistance maintains a steady current through the potentiometer wire of length 10m. Two primary cells of emf E1 and
+E2 are joined together in a series with (i) same polarity and (ii)
+opposite polarity. The combination is connected to the potentiometer circuit in each case. The balancing length of the wire in the two cases are found to be 700 cm and 100 cm, respectively.
+Find the values of emf of the two cells.	3
+SECTION-D
+35. (a) Draw the ray diagram showing refraction of ray of light through a glass prism. Derive the expression for the refractive index ? of the material of prism in terms of the angle of prism A and angle of minimum deviation ?m.
+(b) A ray of light PQ enters an isosceles right angled prism ABC of refractive index 1.5 as shown in figure.
+
+(i) Trace the path of the ray through the prism.
+(ii) What will be the effect on the path of the ray if the refractive index of the prism is 1.4 ?	5
+OR
+
+(a) Two thin lenses are placed coaxially in contact. Obtain the expression for the focal length of this combination in terms of the focal lengths of the two lenses.
+(b) A converging lens of refractive index 1.5 has a power of 10 D. When it is completely immersed in a liquid, it behaves as a diverging lens
+of focal length 50 cm. Find the refractive index of the liquid.	5
+36. (a)	Derive the law of radioactive decay N = No e-?t
+(b) The half life of 238U undergoing ?-decay is 4.5 × 109 years. Find its
+92
+mean life.
+(c) What fraction of the initial mass of a radioactive substance will decay in five half - life periods ?	5
+OR
+(a) State the postulates of Bohr's model of hydrogen atom and derive the expression for Bohr radius.
+(b) Find the ratio of the longest and the shortest wavelengths amongst
+the spectral lines of Balmer series in the spectrum of hydrogen atom.	5
+37. (a) Show that a current carrying solenoid behaves like a small bar magnet. Obtain the expression for the magnetic field at an external point lying on its axis.
+(b) A steady current of 2A flows through a circular coil having 5 turns of radius 7 cm. The coil lies in X-Y plane with its centre at the origin.
+Find the magnitude and direction of the magnetic dipole moment of
+the coil.	5
+OR
+(a) Derive the expression for the force acting between two long parallel current carrying conductors. Hence, define 1 A current.
+(b) A bar magnet of dipole moment 3 Am2 rests with its centre on a frictionless pivot. A force F is applied at right angles to the axis of the magnet, 10 cm from the pivot. It is observed that an external magnetic field of 0.25 T is required to hold the magnet in equilibrium at an angle of 30° with the field.
+Calculate the value of F.
+How will the equilibrium be effected if F is withdrawn ?	5
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
