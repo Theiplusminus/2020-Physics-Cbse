@@ -18,11 +18,11 @@ c = 3 ? 108 m/s
 h = 6.63 ? 10-34 Js
 e = 1.6 ? 10-19 C
 ?0 = 4? ? 10-7 T m A-1
-?0 = 8.854 × 10-12 C2 N-1 m-2
+?0 = 8.854 Ã— 10-12 C2 N-1 m-2
  1  = 9 ? 109 N m2 C-2
 4??0
-Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 × 10-27 kg Mass of proton = 1.673 × 10-27 kg
-Avogadro's number = 6.023 × 1023 per gram mole Boltzmann constant = 1.38 × 10-23 JK-1
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 Ã— 10-27 kg Mass of proton = 1.673 Ã— 10-27 kg
+Avogadro's number = 6.023 Ã— 1023 per gram mole Boltzmann constant = 1.38 Ã— 10-23 JK-1
 
 SECTION - A
 Select the most appropriate option from those given below each question :
@@ -48,8 +48,8 @@ r ?	1
 5. A uniform wire of resistance 2R is bent in the form of a circle. The effective resistance between the ends of any diameter of the circle is :
 (a) 2R	(b)	R	(c)	R	(d)	R	1
 6. A current of 5 A is flowing from east to west in a long straight wire kept on a horizontal table. The magnetic field developed at a distance of 10 cm due south on the table is :
-(a) 1 × 10-5 T acting downwards  (b)  1 × 10-5 T acting upwards
-(c)  2 × 10-5 T acting downwards  (d)  2 × 10-5 T acting upwards	1
+(a) 1 Ã— 10-5 T acting downwards  (b)  1 Ã— 10-5 T acting upwards
+(c)  2 Ã— 10-5 T acting downwards  (d)  2 Ã— 10-5 T acting upwards	1
 7. The kinetic energy of a proton and that of an ?-particle are 4 eV and 1 eV, respectively. The ratio of the de-Broglie wavelengths associated with them, will be
 (a) 2:1	(b)  1:1	(c)  1:2	(d)  4:1	1
 
@@ -133,7 +133,7 @@ Briefly discuss loss of energy in it due to flux leakage and its minimization.	3
 (b) Which out of wavelength, frequency and speed of an electro-magnetic wave does not change on passing from one medium to another ?
 (c) A thin ozone layer in the upper atmosphere is crucial for human survival on earth, why ?	3
 
-32. Two coherent light waves of intensity 5 × 10-2 Wm-2 each super-impose and produce the interference pattern on a screen. At a point where the path difference between the waves is ?/6, ? being wavelength of the wave, find the
+32. Two coherent light waves of intensity 5 Ã— 10-2 Wm-2 each super-impose and produce the interference pattern on a screen. At a point where the path difference between the waves is ?/6, ? being wavelength of the wave, find the
 (a) phase difference between the waves.
 (b) resultant intensity at the point.
 (c) resultant intensity in terms of the intensity at the maximum.	3
@@ -149,7 +149,7 @@ OR
 (b) Show graphically the variation of this electric field E as a function of distance x from the wire.	3
 SECTION-D
 35. (a)	Derive the law of radioactive decay N = No e-?t
-(b) The half life of 238U undergoing ?-decay is 4.5 × 109 years. Find its
+(b) The half life of 238U undergoing ?-decay is 4.5 Ã— 109 years. Find its
 92
 mean life.
 (c) What fraction of the initial mass of a radioactive substance will decay in five half - life periods ?	5
@@ -164,7 +164,7 @@ Find the magnitude and direction of the magnetic dipole moment of
 the coil.	5
 OR
 (a) Derive the expression for the force acting between two long parallel current carrying conductors. Hence, define 1 A current.
-(b) A bar magnet of dipole moment 3 Am2 rests with its centre on a frictionless pivot. A force F is applied at right angles to the axis of the magnet, 10 cm from the pivot. It is observed that an external magnetic field of 0.25 T is required to hold the magnet in equilibrium at an angle of 30° with the field.
+(b) A bar magnet of dipole moment 3 Am2 rests with its centre on a frictionless pivot. A force F is applied at right angles to the axis of the magnet, 10 cm from the pivot. It is observed that an external magnetic field of 0.25 T is required to hold the magnet in equilibrium at an angle of 30Â° with the field.
 Calculate the value of F.
 How will the equilibrium be effected if F is withdrawn ?	5
 37. (a) Draw the ray diagram showing refraction of ray of light through a glass prism. Derive the expression for the refractive index ? of the material of prism in terms of the angle of prism A and angle of minimum deviation ?m.
