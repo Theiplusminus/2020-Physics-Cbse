@@ -138,7 +138,7 @@ Define the term 'drift velocity' of electrons in a current carrying conductor. O
 
 of its surfaces. Find the refractive index of the material of the lens. Under what condition will this lens behave as a converging lens ?	2
 26. (a)	For a radioactive substance, show the variation of the total mass disintegrated as a function of time t graphically.
-(b)	Initial mass of a radioactive substance is 3·2 mg. It has a half-life
+(b)	Initial mass of a radioactive substance is 3Â·2 mg. It has a half-life
 of 4 h. Find the mass of the substance left undecayed after 8 h.	2
 
 27. (a)	Explain the term 'sharpness of resonance' in ac circuit.
@@ -148,7 +148,7 @@ An ac source of emf V = V0 sin ?t is connected to a capacitor of capacitance C. 
 the graph of (i) V vs. ?t, and (ii) I vs. ?t.	2
 SECTION C
 28. (a)	Two electric field lines cannot cross each other. Also, they cannot form closed loops. Give reasons.
-(b)  A particle of charge 2 ?C and mass 1·6 g is moving with a velocity 4 ^i ms-1. At t = 0 the particle enters in a region having an electric field  (in NC-1) = 80 ^i + 60 ^j . Find the velocity of the particle at
+(b)  A particle of charge 2 ?C and mass 1Â·6 g is moving with a velocity 4 ^i ms-1. At t = 0 the particle enters in a region having an electric field  (in NC-1) = 80 ^i + 60 ^j . Find the velocity of the particle at
 t = 5 s.	3
 OR
 In the figure given below, find the
@@ -161,7 +161,7 @@ In the figure given below, find the
 (b)	A radioactive substance decays for an interval of time equal to its mean life. Find the fraction of the amount of the substance which
 is left undecayed after this time interval.	3
 
-30. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1·25 cm and 5·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
+30. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1Â·25 cm and 5Â·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
 near point.	3
 31. The maximum kinetic energy of the photoelectrons emitted is doubled when the wavelength of light incident on the photosensitive surface changes from ?1 to ?2. Deduce expressions for the threshold wavelength
 and work function for the metal surface in terms of ?1 and ?2.	3
@@ -175,27 +175,27 @@ and work function for the metal surface in terms of ?1 and ?2.	3
 (c) Draw the graph showing the variation of the reactance of this inductor with frequency.	3
 
 34. (a)  Plot V-I characteristics for an illuminated photodiode under reverse bias for three different illumination intensities I1 > I2 > I3.
-(b)  In a zener regulated power supply, a zener diode with Vz = 6 V is used for regulation. The load current should be 4·0 mA and zener current is five times the load current for unregulated input of 10 V.
+(b)  In a zener regulated power supply, a zener diode with Vz = 6 V is used for regulation. The load current should be 4Â·0 mA and zener current is five times the load current for unregulated input of 10 V.
 Find the series resistor Rs used in the power supply.	3
 SECTION D
 35. (a)  A circular loop of radius R carries a current I. Obtain an expression for the magnetic field at a point on its axis at a distance x from its centre.
 (b)  A conducting rod of length 2 m is placed on a horizontal table in north-south direction. It carries a current of 5 A from south to north. Find the direction and magnitude of the magnetic force acting on the rod. Given that the Earth's magnetic field at the
 
-place is 0·6 ? 10-4 T and angle of dip is
+place is 0Â·6 ? 10-4 T and angle of dip is
 OR
 
 ? .	5
 6
 
 (a) Obtain the expression for the deflecting torque acting on the current carrying rectangular coil of a galvanometer in a uniform magnetic field. Why is a radial magnetic field employed in the moving coil galvanometer ?
-(b) Particles of mass 1·6 ? 10-27 kg and charge 1·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
+(b) Particles of mass 1Â·6 ? 10-27 kg and charge 1Â·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0Â·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
 36. (a)   Derive lens maker's formula for a biconvex lens.
 (b)  A point object is placed at a distance of 12 cm on the principal axis of a convex lens of focal length 10 cm. A convex mirror is placed coaxially on the other side of the lens at a distance of 10 cm. If the final image coincides with the object, sketch the ray diagram and
 find the focal length of the convex mirror.	5
 OR
 (a) What is a wavefront ? How does it propagate ? Using Huygens' principle, explain reflection of a plane wavefront from a surface and verify the laws of reflection.
 
-(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2·5 mm from the centre of the screen, find the (i) width of the slit, and
+(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2Â·5 mm from the centre of the screen, find the (i) width of the slit, and
 (ii) distance of first secondary maximum from the centre of the screen.	5
 37. (a)  Use Gauss's law to show that due to a uniformly charged spherical shell of radius R, the electric field at any point situated outside the shell at a distance r from its centre is equal to the electric field at the same point, when the entire charge on the shell were concentrated at its centre. Also plot the graph showing the variation of electric field with r, for r ? R and r ? R.
 (b)  Two point charges of + 1 ?C and + 4 ?C are kept 30 cm apart. How far from the + 1 ?C charge on the line joining the two charges, will
