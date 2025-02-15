@@ -108,15 +108,15 @@ What is the value of impedance of a resonant series LCR circuit ?	1
 ? . It is moved along the magnetic field with a velocity ? What is the
 value of emf induced in the conductor ?	1
 18. Draw the graph showing variation of the value of the induced emf as a function of rate of change of current flowing through an ideal inductor.	1
-19. What is the wavelength of a photon of energy 3·3 ? 10-19 J ?	1
+19. What is the wavelength of a photon of energy 3Â·3 ? 10-19 J ?	1
 20. Define the term 'threshold frequency' in photoelectric emission.	1
 SECTION B
 21. Define the term 'mobility' of charge carriers in a current carrying
 conductor. Obtain the relation for mobility in terms of relaxation time.	2
 OR
 Define the term 'drift velocity' of electrons in a current carrying conductor. Obtain the relationship between the current density and the drift velocity of electrons.	2
-22. An ammeter of resistance 0·8 ? can measure a current up to 1·0 A. Find the value of shunt resistance required to convert this ammeter to
-measure a current up to 5·0 A.	2
+22. An ammeter of resistance 0Â·8 ? can measure a current up to 1Â·0 A. Find the value of shunt resistance required to convert this ammeter to
+measure a current up to 5Â·0 A.	2
 
 23. (a)	Explain the term 'sharpness of resonance' in ac circuit.
 (b)	In a series LCR circuit, VL = VC ? VR. What is the value of power factor for this circuit ?	2
@@ -162,7 +162,7 @@ In the figure given below, find the
 (a) Find the capacitance of the capacitor.
 (b) An ideal inductor has the same reactance at 100 Hz frequency as the capacitor has at the same frequency. Find the value of inductance of the inductor.
 (c) Draw the graph showing the variation of the reactance of this inductor with frequency.	3
-31. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1·25 cm and 5·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
+31. What is the difference in the construction of an astronomical telescope and a compound microscope ? The focal lengths of the objective and eyepiece of a compound microscope are 1Â·25 cm and 5Â·0 cm, respectively. Find the position of the object relative to the objective in order to obtain an angular magnification of 30 when the final image is formed at the
 near point.	3
 32. The maximum kinetic energy of the photoelectrons emitted is doubled when the wavelength of light incident on the photosensitive surface changes from ?1 to ?2. Deduce expressions for the threshold wavelength
 and work function for the metal surface in terms of ?1 and ?2.	3
@@ -199,20 +199,20 @@ E , and
 36. (a)  A circular loop of radius R carries a current I. Obtain an expression for the magnetic field at a point on its axis at a distance x from its centre.
 (b) A conducting rod of length 2 m is placed on a horizontal table in north-south direction. It carries a current of 5 A from south to north. Find the direction and magnitude of the magnetic force acting on the rod. Given that the Earth's magnetic field at the
 
-place is 0·6 ? 10-4 T and angle of dip is
+place is 0Â·6 ? 10-4 T and angle of dip is
 OR
 
 ? .	5
 6
 
 (a) Obtain the expression for the deflecting torque acting on the current carrying rectangular coil of a galvanometer in a uniform magnetic field. Why is a radial magnetic field employed in the moving coil galvanometer ?
-(b) Particles of mass 1·6 ? 10-27 kg and charge 1·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
+(b) Particles of mass 1Â·6 ? 10-27 kg and charge 1Â·6 ? 10-19 C are accelerated in a cyclotron of dee radius 40 cm. It employs a magnetic field 0Â·4 T. Find the kinetic energy (in MeV) of the particle beam imparted by the accelerator.	5
 37. (a)   Derive lens maker's formula for a biconvex lens.
 (b) A point object is placed at a distance of 12 cm on the principal axis of a convex lens of focal length 10 cm. A convex mirror is placed coaxially on the other side of the lens at a distance of 10 cm. If the final image coincides with the object, sketch the ray diagram and
 find the focal length of the convex mirror.	5
 OR
 (a) What is a wavefront ? How does it propagate ? Using Huygens' principle, explain reflection of a plane wavefront from a surface and verify the laws of reflection.
-(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2·5 mm from the centre of the screen, find the (i) width of the slit, and
+(b) A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is obtained on a screen 1 m away. If the first minimum is formed at a distance of 2Â·5 mm from the centre of the screen, find the (i) width of the slit, and
 (ii) distance of first secondary maximum from the centre of the screen.	5
 
 
