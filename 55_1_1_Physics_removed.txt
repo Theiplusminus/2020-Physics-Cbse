@@ -65,11 +65,11 @@ electrostatic potential energy of the dipole is	1
 (C) increases the size of the image.
 (D) decreases the length of the telescope.
 
-7. A biconvex lens of glass having refractive index 1·47 is immersed in a liquid. It becomes invisible and behaves as a plane glass plate. The refractive index of the liquid is	1
-(A) 1·47
-(B) 1·62
-(C) 1·33
-(D) 1·51
+7. A biconvex lens of glass having refractive index 1Â·47 is immersed in a liquid. It becomes invisible and behaves as a plane glass plate. The refractive index of the liquid is	1
+(A) 1Â·47
+(B) 1Â·62
+(C) 1Â·33
+(D) 1Â·51
 
 8. For a glass prism, the angle of minimum deviation will be smallest for
 the light of	1
@@ -84,13 +84,13 @@ the light of	1
 (C) Most part of the mass of the atom and its positive charge are concentrated at its centre.
 (D) The stability of atom was established by the model.
 
-10. Photons of energies 1 eV and 2 eV are successively incident on a metallic surface of work function 0·5 eV. The ratio of kinetic energy of most energetic photoelectrons in the two cases will be	1
+10. Photons of energies 1 eV and 2 eV are successively incident on a metallic surface of work function 0Â·5 eV. The ratio of kinetic energy of most energetic photoelectrons in the two cases will be	1
 (A) 1 : 2
 (B) 1 : 1
 (C) 1 : 3
 (D) 1 : 4
 Note :	Fill in the blanks with appropriate answer :
-11. The magnetic field and angle of dip at a place on the earth are 0·3 G and 30?, respectively. The value of vertical component of the earth's magnetic
+11. The magnetic field and angle of dip at a place on the earth are 0Â·3 G and 30?, respectively. The value of vertical component of the earth's magnetic
 field at the place is 	.	1
 12. Laminated iron sheets are used to minimize 	 currents in the
 core of a transformer.	1
@@ -107,7 +107,7 @@ Note :	Answer the following :
 
 18. The nuclear radius of
 
-27 Al is 3·6 fermi. Find the nuclear radius of 64 Cu .	1
+27 Al is 3Â·6 fermi. Find the nuclear radius of 64 Cu .	1
 
 13	29
 OR
@@ -203,9 +203,9 @@ by emitting an
 + energy.
 
 92	90	2
-The binding energies per nucleon of the parent nucleus, the daughter nucleus and ?-particle are 7·8 MeV, 7·835 MeV and 7·07 MeV, respectively. Assuming  the  daughter  nucleus to  be  formed  in the
+The binding energies per nucleon of the parent nucleus, the daughter nucleus and ?-particle are 7Â·8 MeV, 7Â·835 MeV and 7Â·07 MeV, respectively. Assuming  the  daughter  nucleus to  be  formed  in the
 unexcited state and neglecting its share in the energy of the reaction, find
-the speed of the emitted ?-particle. (Mass of ?-particle = 6·68 ? 10-27 kg)   3
+the speed of the emitted ?-particle. (Mass of ?-particle = 6Â·68 ? 10-27 kg)   3
 34. (a)  Draw circuit diagram and explain the working of a zener diode as a dc voltage regulator with the help of its I-V characteristic.
 (b)	What is the purpose of heavy doping of p- and n-sides of a zener diode ?	3
 SECTION D
@@ -235,13 +235,13 @@ external electric field ? .
 (c) Three point charges + 1 ?C, - 1 ?C and + 2 ?C are initially infinite distance apart. Calculate the work done in assembling these charges at the vertices of an equilateral triangle of side 10 cm.	5
 36. (a)  Derive the expression for the torque acting on the rectangular current carrying coil of a galvanometer. Why is the magnetic field made radial ?
 (b)  An ?-particle is accelerated through a potential difference of 10 kV and moves along x-axis. It enters in a region of uniform magnetic field B = 2 ? 10-3 T acting along y-axis. Find the radius of its path.
-(Take mass of ?-particle = 6·4 ? 10-27 kg )	5
+(Take mass of ?-particle = 6Â·4 ? 10-27 kg )	5
 OR
 (a) With the help of a labelled diagram, explain the working of a step-up transformer. Give reasons to explain the following :
 (i) The core of the transformer is laminated.
 (ii) Thick copper wire is used in windings.
 
-(b) A conducting rod PQ of length 20 cm and resistance 0·1 ? rests on two smooth parallel rails of negligible resistance AA? and CC?. It can slide on the rails and the arrangement is positioned between the poles of a permanent magnet producing uniform magnetic field B = 0·4 T. The rails, the rod and the magnetic field are in three mutually perpendicular directions as shown in the figure. If the ends A and C of the rails are short circuited, find the
+(b) A conducting rod PQ of length 20 cm and resistance 0Â·1 ? rests on two smooth parallel rails of negligible resistance AA? and CC?. It can slide on the rails and the arrangement is positioned between the poles of a permanent magnet producing uniform magnetic field B = 0Â·4 T. The rails, the rod and the magnetic field are in three mutually perpendicular directions as shown in the figure. If the ends A and C of the rails are short circuited, find the
 (i) external force required to move the rod with uniform velocity v = 10 cm/s, and
 (ii) power required to do so.	5
 
@@ -257,8 +257,8 @@ OR
 (b) An astronomical telescope has an objective lens of focal length 20 m and eyepiece of focal length 1 cm.
 (i) Find the angular magnification of the telescope.
 
-(ii) If this telescope is used to view the Moon, find the diameter of the image formed by the objective lens. Given the diameter of the Moon is 3·5 ? 106 m and radius of lunar orbit
-is 3·8 ? 108 m.	5
+(ii) If this telescope is used to view the Moon, find the diameter of the image formed by the objective lens. Given the diameter of the Moon is 3Â·5 ? 106 m and radius of lunar orbit
+is 3Â·8 ? 108 m.	5
 OR
 
 (a) An object is placed in front of a concave mirror. It is observed that a virtual image is formed. Draw the ray diagram to show the
@@ -270,7 +270,7 @@ image formation and hence derive the mirror equation
 
 f	u	v
 
-(b) An object is placed 30 cm in front of a plano-convex lens with its spherical surface of radius of curvature 20 cm. If the refractive index of the material of the lens is 1·5, find the position and nature
+(b) An object is placed 30 cm in front of a plano-convex lens with its spherical surface of radius of curvature 20 cm. If the refractive index of the material of the lens is 1Â·5, find the position and nature
 of the image formed.	5
 
 
