@@ -104,7 +104,7 @@ will be	1
 
 Note :	Fill in the blanks with appropriate answer :
 11. The shape of the wavefront originating from a line source is 	.	1
-12. The refractive index of the material of a converging lens is 1·5. If air is replaced by a medium of refractive index 1·6, then the lens will now behave as a 	lens.	1
+12. The refractive index of the material of a converging lens is 1Â·5. If air is replaced by a medium of refractive index 1Â·6, then the lens will now behave as a 	lens.	1
 13. In Young's double slit experiment, the separation between the two slits is halved. The new fringe width will be 	times its initial value.	1
 
 14. The value of Brewster's angle for air-glass interface is
@@ -167,7 +167,7 @@ SECTION C
 28. (a)  Differentiate between the random velocity and the drift velocity of electrons in an electrical conductor. Give their order of magnitudes.
 (b)  A conductor of uniform cross-sectional area is connected across a dc source of variable voltage. Draw a graph showing variation of drift velocity of electrons (vd) as a function of current density (J)
 in it.	3
-29. A series LCR ac circuit has L = 2·0 H, C = 32 ?F and R = 10 ?.
+29. A series LCR ac circuit has L = 2Â·0 H, C = 32 ?F and R = 10 ?.
 (a) At what angular frequency of ac will it resonate ?
 (b) Calculate the Q value of the circuit.	3
 OR
