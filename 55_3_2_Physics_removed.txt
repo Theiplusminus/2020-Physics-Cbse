@@ -146,7 +146,7 @@ OR
 Light of frequency v is incident on a photosensitive surface of threshold frequency	v0 (v > v0).	The	value	of	kinetic	energy	of	the	emitted photoelectrons will be 			.							1
 13. The phase difference between the two points on the same wavefront is
 .	1
-14. The refractive index of the material of a converging lens is 1·5. If air is replaced by a medium of refractive index 1·6, then the lens will now
+14. The refractive index of the material of a converging lens is 1Â·5. If air is replaced by a medium of refractive index 1Â·6, then the lens will now
 behave as a	lens.	1
 
 15. The value of Brewster's angle for air-glass interface is
@@ -181,7 +181,7 @@ What happens when a block of metal is kept in a varying magnetic field ?	1
 not change when it propagates from one medium into another medium ?	1
 
 SECTION B
-21. A battery of emf 12 V and internal resistance 4 ? is connected to an external resistance R. If the current in the resistance is 0·5 A, calculate
+21. A battery of emf 12 V and internal resistance 4 ? is connected to an external resistance R. If the current in the resistance is 0Â·5 A, calculate
 the value of (a) R, and (b) the terminal voltage of the battery.	2
 22. A converging lens of focal length f1 is placed coaxially in contact with a diverging lens of focal length f2 (f1 > f2). Determine the power and nature
 of the combination in terms of f1 and f2.	2
@@ -219,7 +219,7 @@ to create a potential barrier.	3
 (b)	In the magnified image of a measuring scale (with equidistant markings) lying along the principal axis of a concave mirror, the markings are not equidistant. Explain.	3
 33. With the help of a circuit diagram, explain how two p-n junction diodes along with a centre tapped transformer can be used as a full wave rectifier.	3
 
-34. A series LCR ac circuit has L = 2·0 H, C = 32 ?F and R = 10 ?.
+34. A series LCR ac circuit has L = 2Â·0 H, C = 32 ?F and R = 10 ?.
 (a) At what angular frequency of ac will it resonate ?
 (b) Calculate the Q value of the circuit.	3
 OR
