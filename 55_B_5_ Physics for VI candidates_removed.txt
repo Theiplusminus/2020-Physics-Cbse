@@ -55,7 +55,7 @@ s
 
 2e0r2
 
-2. A lens of power 2·0 D is placed in contact with another lens of power - 1·0 D. The combination will behave as a	1
+2. A lens of power 2Â·0 D is placed in contact with another lens of power - 1Â·0 D. The combination will behave as a	1
 (A) converging lens of f = 100 cm.
 (B) diverging lens of f = 100 cm.
 (C) converging lens of f = 50 cm.
@@ -105,7 +105,27 @@ on the same surface, then the	1
 (D) photoelectric emission will not take place.
 8. When the lower half of a concave mirror's reflecting surface is covered with a black paper	1
 
-(A)	only half of the image will intensity.appearwithdecreasein(B)	the complete image will be intensity.formedwithincreasein(C)	the complete image will be intensity.formedwithdecreasein(D)	only half of the image will intensity.appearwithincreasein
+(A)	only half of the image will intensity.
+appear
+with
+decrease
+in
+(B)	the complete image will be intensity.
+formed
+with
+increase
+in
+(C)	the complete image will be intensity.
+formed
+with
+decrease
+in
+(D)	only half of the image will intensity.
+appear
+with
+increase
+in
+
 9. A proton, when accelerated through a potential difference of V volt, has de Broglie wavelength ? associated with it. If an alpha particle is to have the same wavelength ?, it must be accelerated through a potential difference of	1
 
 (A)
@@ -144,7 +164,7 @@ P ???	S
 
 13. In an unbiased p-n junction diode, the diffusion current is equal to the drift current under 	condition.	1
 14. When an unpolaroid light is incident on a polaroid sheet, its intensity is reduced by 	%.	1
-15. The ground state energy of hydrogen atom is - 13·6 eV. The potential	energy	of	the	orbiting	electron	in	this	state	is
+15. The ground state energy of hydrogen atom is - 13Â·6 eV. The potential	energy	of	the	orbiting	electron	in	this	state	is
 	eV.	1
 Note : Answer the following :
 16. Why can two electric field lines never cross each other ?	1
@@ -168,7 +188,7 @@ Use this expression to define the SI unit of magnetic field.	2
 OR
 Write any two points of difference between the properties of diamagnetic and paramagnetic substances.	2
 23. A hydrogen atom is in its second excited state. Find out the ratio of the maximum and minimum wavelengths of the radiations emitted by it in de-excitation.	2
-24. Three resistances 1 ?, 2 ? and 3 ? are connected to form a triangle. If a cell of emf 2 V and internal resistances 0·5 ? is connected across the 3 ? resistance, find the value of the current supplied by the cell.	2
+24. Three resistances 1 ?, 2 ? and 3 ? are connected to form a triangle. If a cell of emf 2 V and internal resistances 0Â·5 ? is connected across the 3 ? resistance, find the value of the current supplied by the cell.	2
 
 25. State the underlying principle of a full wave p-n junction rectifier and explain its working.	2
 26. The	half-life	period	of	a	radioactive	isotope	is	20	days.
@@ -179,7 +199,7 @@ OR
 7 th  of its original mass to
 8	2
 
-A radioactive isotope has a half-life of 12·5 years. How long will it take for the activity to reduce to 3·125% of its initial value ?	2
+A radioactive isotope has a half-life of 12Â·5 years. How long will it take for the activity to reduce to 3Â·125% of its initial value ?	2
 27. A rectangular loop carrying a steady current I is placed in a
 uniform magnetic field ? . Prove that the torque acting on the
 loop is given by ? =	?  ?  ? , where	?  is the magnetic
@@ -213,7 +233,7 @@ capacitor, the current leads the voltage in phase by p .
 (b) Write	the	expression	for	magnifying	power	of	an astronomical telescope.
 (c) An astronomical telescope uses two lenses of powers 10 D and 1 D. Which lens is preferred as an objective lens and why ?	3
 32. (a) Define the term 'threshold frequency' in photoelectric effect.
-(b)  The work function for a given photosensitive surface is 2·5 eV. When light of frequency v falls on this surface the emitted photoelectrons are completely stopped by applying  a  retarding  potential  of  4·1  V.  Find  the
+(b)  The work function for a given photosensitive surface is 2Â·5 eV. When light of frequency v falls on this surface the emitted photoelectrons are completely stopped by applying  a  retarding  potential  of  4Â·1  V.  Find  the
 frequency v of the light.	3
 
 33. (a)	Explain the principle and working of a moving coil galvanometer.
